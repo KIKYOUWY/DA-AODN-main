@@ -1,4 +1,4 @@
-## Considering Degeneration Aerial Object Detection Network Under Adverse Weather Conditions and A large-Scale Multi-Degradation Aerial Detection Dataset
+## Degradation-Aware Aerial Object Detection Framework:Efficient Network Design and Multi-Degradation Dataset
 
 ## Abstract
 ![](Figs/introduction.png)
